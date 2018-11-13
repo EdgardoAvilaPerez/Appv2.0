@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorrosa">#f285ab</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+
+    /////////////////////////////////////////////////////////
+    <color name="letra">#ffffff</color>
+    <color name="fondo">#92f987de</color>
+    <color name="fragPrincipal">#7d0b0b0b</color>
+
+</resources>
